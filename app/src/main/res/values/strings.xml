@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Encoder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="decode">Decode</string>
+    <string name="encode">Encode</string>
+    <string name="msg">Input Msg</string>
+</resources>
